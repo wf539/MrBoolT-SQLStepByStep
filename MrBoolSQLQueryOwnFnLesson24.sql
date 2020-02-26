@@ -1,6 +1,9 @@
 --Lesson 24
 
-USE [AdventureWorks2012]
+--USE [AdventureWorks2012]
+--GO
+
+USE [AdventureWorks2017]
 GO
 
 ------------------------------------
